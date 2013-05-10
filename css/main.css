@@ -1,0 +1,21 @@
+body {
+    background: url('../img/lghtmesh.png');
+    font-family: sans-serif;
+}
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.boxes-container {
+	clear: both;
+}
+
+.box {
+	width: 130px;
+	height: 130px;
+	margin: 10px;
+	float: left;
+	background: #66ADCC;
+}
